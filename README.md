@@ -1,2 +1,3 @@
 # hello-world
-In line with recommendations in the GitHub Guides.
+Made in line with recommendations in the GitHub Guides.
+A picture is worth a thousand words.
